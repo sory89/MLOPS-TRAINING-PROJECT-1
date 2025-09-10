@@ -1,0 +1,6 @@
+venv/
+mlruns/
+logs/
+MLOPS_PROJET_1.egg-info/
+notebook/random_forest.pkl/
+artifacts/models/
